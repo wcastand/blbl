@@ -1,0 +1,7 @@
+'use strict';
+
+var server_node = require('../node_modules/react-dom/server.node.js');
+
+
+
+exports.default = server_node.__moduleExports;

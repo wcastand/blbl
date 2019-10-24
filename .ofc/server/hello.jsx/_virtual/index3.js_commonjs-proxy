@@ -1,0 +1,7 @@
+'use strict';
+
+var index$2$1 = require('../node_modules/react-is/index.js');
+
+
+
+exports.default = index$2$1.__moduleExports;

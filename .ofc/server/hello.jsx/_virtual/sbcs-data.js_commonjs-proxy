@@ -1,0 +1,7 @@
+'use strict';
+
+var sbcsData = require('../node_modules/iconv-lite/encodings/sbcs-data.js');
+
+
+
+exports.default = sbcsData.__moduleExports;

@@ -1,0 +1,9 @@
+'use strict';
+
+function _interopDefault (ex) { return (ex && (typeof ex === 'object') && 'default' in ex) ? ex['default'] : ex; }
+
+var string_decoder = _interopDefault(require('string_decoder'));
+
+
+
+exports.default = string_decoder;

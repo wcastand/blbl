@@ -1,0 +1,7 @@
+'use strict';
+
+var index_cjs$2 = require('../node_modules/is-what/dist/index.cjs.js');
+
+
+
+exports.default = index_cjs$2.__moduleExports;

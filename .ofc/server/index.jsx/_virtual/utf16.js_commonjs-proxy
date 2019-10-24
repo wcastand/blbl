@@ -1,0 +1,7 @@
+'use strict';
+
+var utf16 = require('../node_modules/iconv-lite/encodings/utf16.js');
+
+
+
+exports.default = utf16.__moduleExports;

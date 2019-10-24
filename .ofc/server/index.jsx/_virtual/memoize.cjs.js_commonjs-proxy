@@ -1,0 +1,7 @@
+'use strict';
+
+var memoize_cjs = require('../node_modules/@emotion/memoize/dist/memoize.cjs.js');
+
+
+
+exports.default = memoize_cjs.__moduleExports;

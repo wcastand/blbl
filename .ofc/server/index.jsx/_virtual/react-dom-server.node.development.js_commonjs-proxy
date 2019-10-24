@@ -1,0 +1,7 @@
+'use strict';
+
+var reactDomServer_node_development = require('../node_modules/react-dom/cjs/react-dom-server.node.development.js');
+
+
+
+exports.default = reactDomServer_node_development.__moduleExports;

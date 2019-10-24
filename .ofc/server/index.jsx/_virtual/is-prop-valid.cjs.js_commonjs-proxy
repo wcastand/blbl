@@ -1,0 +1,7 @@
+'use strict';
+
+var isPropValid_cjs = require('../node_modules/@emotion/is-prop-valid/dist/is-prop-valid.cjs.js');
+
+
+
+exports.default = isPropValid_cjs.__moduleExports;

@@ -1,0 +1,7 @@
+'use strict';
+
+var dbcsCodec = require('../node_modules/iconv-lite/encodings/dbcs-codec.js');
+
+
+
+exports.default = dbcsCodec.__moduleExports;

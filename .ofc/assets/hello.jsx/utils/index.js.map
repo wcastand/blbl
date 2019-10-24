@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../utils/index.js"],"sourcesContent":["import styled from 'styled-components'\nimport gr from './ge'\n\nexport default styled.div`\n  color: ${gr};\n`\n"],"names":["styled","div","gr"],"mappings":";;;;;;;;;;;;;AAGA,QAAeA,MAAM,CAACC,GAAtB,oBACWC,EADX;;;;"}

@@ -1,0 +1,8 @@
+'use strict';
+
+var _commonjsHelpers = require('./_commonjsHelpers.js');
+var cp949 = require('../node_modules/iconv-lite/encodings/tables/cp949.json.js');
+
+var require$$5 = _commonjsHelpers.getCjsExportFromNamespace(cp949);
+
+exports.default = require$$5;

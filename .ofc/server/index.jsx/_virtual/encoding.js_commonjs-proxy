@@ -1,0 +1,7 @@
+'use strict';
+
+var encoding = require('../node_modules/encoding/lib/encoding.js');
+
+
+
+exports.default = encoding.__moduleExports;

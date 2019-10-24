@@ -1,0 +1,7 @@
+'use strict';
+
+var dbcsData = require('../node_modules/iconv-lite/encodings/dbcs-data.js');
+
+
+
+exports.default = dbcsData.__moduleExports;

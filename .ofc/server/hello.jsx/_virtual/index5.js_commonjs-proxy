@@ -1,0 +1,7 @@
+'use strict';
+
+var index$1 = require('../node_modules/prop-types/index.js');
+
+
+
+exports.default = index$1.__moduleExports;

@@ -1,0 +1,7 @@
+'use strict';
+
+var checkPropTypes = require('../node_modules/prop-types/checkPropTypes.js');
+
+
+
+exports.default = checkPropTypes.__moduleExports;

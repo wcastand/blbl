@@ -1,0 +1,7 @@
+'use strict';
+
+var bomHandling = require('../node_modules/iconv-lite/lib/bom-handling.js');
+
+
+
+exports.default = bomHandling.__moduleExports;
