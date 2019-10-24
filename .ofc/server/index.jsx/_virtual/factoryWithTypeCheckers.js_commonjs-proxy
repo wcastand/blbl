@@ -1,7 +1,0 @@
-'use strict';
-
-var factoryWithTypeCheckers = require('../node_modules/prop-types/factoryWithTypeCheckers.js');
-
-
-
-exports.default = factoryWithTypeCheckers.__moduleExports;

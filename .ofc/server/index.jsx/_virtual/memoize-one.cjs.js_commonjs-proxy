@@ -1,7 +1,0 @@
-'use strict';
-
-var memoizeOne_cjs = require('../node_modules/memoize-one/dist/memoize-one.cjs.js');
-
-
-
-exports.default = memoizeOne_cjs.__moduleExports;

@@ -1,8 +1,0 @@
-'use strict';
-
-var _commonjsHelpers = require('./_commonjsHelpers.js');
-var gbkAdded = require('../node_modules/iconv-lite/encodings/tables/gbk-added.json.js');
-
-var require$$3 = _commonjsHelpers.getCjsExportFromNamespace(gbkAdded);
-
-exports.default = require$$3;

@@ -1,7 +1,0 @@
-'use strict';
-
-var index = require('../node_modules/iconv-lite/encodings/index.js');
-
-
-
-exports.default = index.__moduleExports;

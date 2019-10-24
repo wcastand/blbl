@@ -1,7 +1,0 @@
-'use strict';
-
-var internal = require('../node_modules/iconv-lite/encodings/internal.js');
-
-
-
-exports.default = internal.__moduleExports;

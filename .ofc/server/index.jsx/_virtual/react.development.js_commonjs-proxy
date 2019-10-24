@@ -1,7 +1,0 @@
-'use strict';
-
-var react_development = require('../node_modules/react/cjs/react.development.js');
-
-
-
-exports.default = react_development.__moduleExports;

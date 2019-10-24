@@ -1,8 +1,0 @@
-'use strict';
-
-var _commonjsHelpers = require('./_commonjsHelpers.js');
-var cp950 = require('../node_modules/iconv-lite/encodings/tables/cp950.json.js');
-
-var require$$6 = _commonjsHelpers.getCjsExportFromNamespace(cp950);
-
-exports.default = require$$6;

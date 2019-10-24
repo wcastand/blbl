@@ -1,8 +1,0 @@
-'use strict';
-
-var _commonjsHelpers = require('./_commonjsHelpers.js');
-var shiftjis = require('../node_modules/iconv-lite/encodings/tables/shiftjis.json.js');
-
-var require$$0 = _commonjsHelpers.getCjsExportFromNamespace(shiftjis);
-
-exports.default = require$$0;

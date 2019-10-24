@@ -1,7 +1,0 @@
-'use strict';
-
-var iconvLoader = require('../node_modules/encoding/lib/iconv-loader.js');
-
-
-
-exports.default = iconvLoader.__moduleExports;

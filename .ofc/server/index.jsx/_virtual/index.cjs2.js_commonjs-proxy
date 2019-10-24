@@ -1,7 +1,0 @@
-'use strict';
-
-var index_cjs = require('../node_modules/merge-anything/dist/index.cjs.js');
-
-
-
-exports.default = index_cjs.__moduleExports;

@@ -1,8 +1,0 @@
-'use strict';
-
-var _commonjsHelpers = require('./_commonjsHelpers.js');
-var big5Added = require('../node_modules/iconv-lite/encodings/tables/big5-added.json.js');
-
-var require$$7 = _commonjsHelpers.getCjsExportFromNamespace(big5Added);
-
-exports.default = require$$7;

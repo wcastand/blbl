@@ -1,6 +1,0 @@
-import { __moduleExports as reactDom_development } from '../node_modules/react-dom/cjs/react-dom.development.js';
-
-
-
-export default reactDom_development;
-//# sourceMappingURL=react-dom.development.js_commonjs-proxy.map

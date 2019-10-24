@@ -1,7 +1,0 @@
-'use strict';
-
-var extendNode = require('../node_modules/iconv-lite/lib/extend-node.js');
-
-
-
-exports.default = extendNode.__moduleExports;
