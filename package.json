@@ -1,0 +1,15 @@
+{
+  "name": "blbl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ofc serve"
+  },
+  "dependencies": {
+    "@ofc/cli": "^0.0.1-alpha.5",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "styled-components": "^4.4.0"
+  }
+}
