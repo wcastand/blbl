@@ -1,10 +1,10 @@
 import React from 'react'
-import B from './utils'
+import { Hello } from './utils'
 
 export default () => {
   return (
     <div>
-      <B>hello</B>
+      <Hello>hello</Hello>
     </div>
   )
 }

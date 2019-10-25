@@ -1,10 +1,11 @@
 import React from 'react'
-import B from './utils'
+import { Hello, Label } from './utils'
 
 export default () => {
   return (
     <div>
-      <B>hello world</B>
+      <Label>Hlelo</Label>
+      <Hello>hello world</Hello>
     </div>
   )
 }
