@@ -1,5 +1,5 @@
 import React from 'react'
-import { Hello, Label } from './utils'
+import { Hello, Label } from './utils/index.jsx'
 
 export default () => {
   return (

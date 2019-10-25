@@ -1,10 +1,15 @@
 import React from 'react'
-import { Hello } from './utils'
+import styled from 'styled-components'
+import { Hello } from './utils/index.jsx'
+
+const Container = styled.div`
+  background: blue;
+`
 
 export default () => {
   return (
-    <div>
+    <Container>
       <Hello>hello</Hello>
-    </div>
+    </Container>
   )
 }
